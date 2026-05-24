@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A passionate frontend and backend developer from Ecuador</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Design patterns, AWS, NestJS, Enterprise Angular, ReactJS, C**
+Ingeniero de Software con más de 5 años de experiencia colaborando en el diseño y desarrollo de soluciones backend escalables en entornos de alto rendimiento. Cuento con una sólida formación técnica en arquitectura de microservicios, computación en la nube y metodologías ágiles.
 
-- 💬 Ask me about **NodeJS, ExpressJS, Angular 6+, Django, MongoDB, Terraform, Docker.**
+Me apasiona construir aplicaciones seguras y de alta disponibilidad que aporten valor real al negocio. Aplico rigurosamente mejores prácticas como Clean Code, principios SOLID y TDD. Poseo dominio de un stack tecnológico moderno que incluye Golang, Java, Kotlin, TypeScript, Python, Spring Boot, NestJS y Flask orquestados sobre infraestructuras en la nube, Docker y Kubernetes. Me caracterizo por ser un perfil proactivo y colaborador, enfocado en resolver problemas complejos y elevar el estándar técnico de los equipos en los que trabajo.
 
 - 📫 How to reach me **faherrera2@gmail.com**
 
